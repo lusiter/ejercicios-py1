@@ -5,7 +5,7 @@ guia comentario de varibles
 """
 
 
-nombre = 'Jose'
+nombre = 'ailana'
 apellido = 'Teran'
 edad= 32
 
