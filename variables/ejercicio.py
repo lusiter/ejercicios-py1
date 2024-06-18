@@ -5,8 +5,8 @@ guia comentario de varibles
 """
 
 
-nombre = 'ailana'
-apellido = 'Teran'
+nombre = 'ailana maria'
+apellido = 'Teran farco'
 edad= 32
 
 print('mi nombre es', nombre )
